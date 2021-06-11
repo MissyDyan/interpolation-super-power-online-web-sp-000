@@ -17,7 +17,7 @@
 #   puts "The sixth letter in the alphabet is: #{letters[6]}"
 #   puts "The seventh letter in the alphabet is: #{letters[2]}"
 # end
-# 
+#
 # display_rainbow
 
 
